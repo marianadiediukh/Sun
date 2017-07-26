@@ -1,3 +1,3 @@
 files:
   - source: /UA-UK/*.php
-    translation: /%locale%/%file_name%.%file_extension%.%two_letters_code%
+    translation: /%locale%/%file_name%.%two_letters_code%.%file_extension%

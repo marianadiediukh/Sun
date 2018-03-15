@@ -4,4 +4,4 @@ files:
     
     files:
   - source: /en-US/*.php
-    translation: /%locale%/%two_letters_code%.%file_extension%
+    translation: /%locale%/%original_file_name%

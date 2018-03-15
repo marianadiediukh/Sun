@@ -1,6 +1,6 @@
 files:
   - source: /UA-UK/*.php
-    translation: %locale%/%file_name%.%two_letters_code%.%file_extension%
+    translation: /%locale%/%file_name%.%two_letters_code%.%file_extension%
     
     files:
   - source: /en-US/*.php

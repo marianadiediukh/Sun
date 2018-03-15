@@ -1,7 +1,5 @@
 files:
   - source: /UA-UK/*.php
     translation: /%original_file_name%/%two_letters_code%
-    
-    files:
   - source: /en-US/*.php
-    translation: /%original_file_name%/%two_letters_code%
+    translation: /%locale%/%original_file_name%/%two_letters_code%.php
